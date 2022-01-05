@@ -18,7 +18,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](https://i.imgur.com/0yCwSHJ.png)
+![](https://i.imgur.com/7S8mu1V.png)
 
 ### Links
 

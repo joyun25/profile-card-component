@@ -92,6 +92,7 @@ img {
 	background-repeat: no-repeat;
 	background-position: center 0;
 	border-radius: 13px;
+	box-shadow: 0 20px 50px rgba(0, 0, 0, .3);
 	text-align: center;
 	position: relative;
 }
@@ -136,7 +137,7 @@ img {
 .location {
 	color: $darkGrayishBlue;
 	padding-bottom: 20px;
-	border-bottom: 1px solid $darkGray;
+	border-bottom: 1px solid #ddd;
 }
 
 .items {
@@ -153,8 +154,8 @@ img {
 }
 
 .item {
-	font-size: 14px;
-	color: $darkGrayishBlue;
+	font-size: 12px;
+	color: $darkGray;
 }
 
 .attribution {
