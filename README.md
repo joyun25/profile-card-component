@@ -22,8 +22,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Github](https://github.com/joyun25/profile-card-component-main)
-- Live Site URL: [Github Page](https://joyun25.github.io/profile-card-component-main/)
+- Solution URL: [Github](https://github.com/joyun25/profile-card-component)
+- Live Site URL: [Github Page](https://joyun25.github.io/profile-card-component/)
 
 ### Built with
 
